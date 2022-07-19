@@ -4,6 +4,7 @@ I am a full stack developer, most familiar with the MERN stack.
 I enjoy solving problems, and am now looking to do so in a team environment! Feel free to reach out. 
 
 - 🌱 I’m currently learning more about the React and Node ecosystems.
+- You can find my latest project at [odinbook.xyz](https://odinbook.xyz)
 
 ### Languages and Tools
 
