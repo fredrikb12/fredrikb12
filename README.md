@@ -15,7 +15,7 @@ I enjoy solving problems, and am now looking to do so in a team environment! Fee
 * Node
 * Express
 * MongoDB
-* JavaScript
+* JavaScript/TypeScript
 
 #### Other Tools
 
