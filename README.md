@@ -37,7 +37,6 @@ I am a full stack developer, most familiar with the MERN stack.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 * fredrik.backman12@gmail.com
-* Foole#9692 on Discord
 
 
 
